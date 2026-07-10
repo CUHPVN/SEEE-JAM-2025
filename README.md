@@ -1,4 +1,4 @@
-## Dự Án Game: The Way Home - Chạy Đi! 🏃‍♂️
+## Dự Án Game: BoomBot - Boom!
 
 [<img src="https://github.com/user-attachments/assets/dabe4f53-fcfb-4e3f-bdd8-a8ebdddf2423" alt="CLB Nhà Sáng Tạo Game PTIT Logo" width="30"/> **CLB Nhà Sáng Tạo Game PTIT**](https://www.facebook.com/gamecreatorsclub)
 
@@ -12,7 +12,7 @@
 
 ### Tổng quan dự án:
 
-**Boombot** là một tựa game Platformer, Puzzle hấp dẫn, tại đây người chơi phải điều chỉnh hướng cũng như lực ném bom một cách khéo léo để có thể đưa nhân vật vượt qua những màn chơi, những thử thách. Với bối cảnh phòng thí nghiệm cùng nhân vật là một chú robot, mục tiêu cuối cùng của người chơi là đưa được chú robot đến với cánh cửa chiến thắng
+**Boom Bot** là một tựa game Platformer, Puzzle hấp dẫn, tại đây người chơi phải điều chỉnh hướng cũng như lực ném bom một cách khéo léo để có thể đưa nhân vật vượt qua những màn chơi, những thử thách. Với bối cảnh phòng thí nghiệm cùng nhân vật là một chú robot, mục tiêu cuối cùng của người chơi là đưa được chú robot đến với cánh cửa chiến thắng
 
 ---
 
